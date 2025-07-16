@@ -9,6 +9,7 @@ public class twoDmatix {
                 System.out.print(food + " ");
             }
             System.out.println();
+            System.out.println();
         }
 
     }
